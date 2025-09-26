@@ -20,15 +20,10 @@
 
 ---
 
-#### Featured Projects
-- **MobData Hybrid App** — Hybrid data-sharing platform (React admin, React Native mobile, Spring Boot + MySQL) with device authentication and admin approval.  
-- **Alumni Management System** — Spring Boot + JSP app with role-based access for alumni, staff & admins.  
-- **Bookstore Web App** — RESTful APIs using Spring Boot, MongoDB and Spring Security.
-
----
-
 #### Certifications
-AWS Academy Graduate — Cloud Foundations · Cisco — Introduction to Cybersecurity · YBI Foundation — AI/ML Internship
+· AWS Academy Graduate — Cloud Foundations 
+· Cisco — Introduction to Cybersecurity 
+· YBI Foundation — AI/ML Internship
 
 ---
 
