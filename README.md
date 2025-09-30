@@ -28,7 +28,7 @@
 ---
 
 #### GitHub Stats
-![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq201206&show_icons=true&theme=radical)  
+[Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq201206&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq201206&layout=compact&theme=radical)
 
 ---
