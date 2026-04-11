@@ -27,11 +27,6 @@
 
 ---
 
-#### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq201206&layout=compact&theme=radical)
-
----
-
 #### Connect
 - LinkedIn: https://www.linkedin.com/in/tanishqsingh2102  
 - Email: tanishq.2226cseai107@kiet.edu
